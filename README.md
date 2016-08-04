@@ -5,3 +5,5 @@ Scania eftersöker ett program som skall säga till (varna) arbetare när tempra
 
 Gör ett aktivetesdiagram över problemet ovan.
 
+´print("Hellow World!")`
+
